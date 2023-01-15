@@ -90,13 +90,21 @@ implementation. <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/79979904/212548755-e9890e0d-5734-4f67-ab8e-46c6df022e65.png" width="50%">
 
-#### Developed System 
+### Developed System 
+
+#### Login 
 
 <img src="https://user-images.githubusercontent.com/79979904/212552659-e27f0594-40ab-4515-9f54-5306581c5a50.jpg" width="500">
 
+#### Hall Manager View
+
 <img src="https://user-images.githubusercontent.com/79979904/212552651-3e503aba-3119-4498-8c97-95c651a7956d.jpg" width="700">
 
+#### Warden View
+
 <img src="https://user-images.githubusercontent.com/79979904/212552786-e1c9cb63-8227-47d2-87bf-1fec3f31e345.png" width="700">
+
+#### Superuser View
 
 <img src="https://user-images.githubusercontent.com/79979904/212552821-7058b1af-31e2-48a2-9af8-a45cf85647a2.png" width="700">
 
