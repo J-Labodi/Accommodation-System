@@ -54,6 +54,20 @@ maintenance beyond a normal cleaning.
 
 ![image](https://user-images.githubusercontent.com/79979904/212549621-5a61e305-454b-4425-ac01-be6f200f0ed8.png)
 
+#### Sequence Diagram 1: View Number of Rooms in a Hall
+![image](https://user-images.githubusercontent.com/79979904/212549780-b9512b2b-72e3-4b71-a7a8-fa2818094bb7.png)
+
+#### Sequence Diagram 2: Change Room's Cleaning Status
+
+![image](https://user-images.githubusercontent.com/79979904/212549908-d60a03fb-8a05-4097-9d64-7535486bc862.png)
+
+
+#### Sequence Diagram 3: Display Hall Details
+
+![image](https://user-images.githubusercontent.com/79979904/212549916-efd07ed7-8a09-47b6-ba04-a908384731df.png)
+
+
+
 
 
 ### Implementation 
