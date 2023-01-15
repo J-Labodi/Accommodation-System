@@ -94,7 +94,7 @@ implementation. <br/><br/>
 
 #### Login 
 
-<img src="https://user-images.githubusercontent.com/79979904/212552659-e27f0594-40ab-4515-9f54-5306581c5a50.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/79979904/212552659-e27f0594-40ab-4515-9f54-5306581c5a50.jpg" width="300">
 
 #### Hall Manager View
 
