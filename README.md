@@ -7,7 +7,7 @@ The developer team has been assigned to the task of plan, design, develop & test
 * GoF design patterns
 * SOLID principles 
 
-The accommodation system has been completed in Agile settings, developing the project by continuous iteration. The entire project is divided into twenty 
+The accommodation system project has been completed in Agile settings, developing the application by continuous iteration. The entire project is divided into twenty 
 sprint periods and each, 1 week-long sprint period included a small portion of work to be done.
 
 
