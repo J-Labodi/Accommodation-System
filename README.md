@@ -61,7 +61,3 @@ maintenance beyond a normal cleaning.
 
 In order to run the Currency Converter microservice in a local environment, complete the following steps;
 
-- Copy the application to your htdocs directory (XAMPP required)
-- Start the Apache module within your XAMPP control panel 
-- Access the microservice's functionalities with the following requests:
-
