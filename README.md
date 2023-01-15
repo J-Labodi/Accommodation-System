@@ -96,9 +96,9 @@ implementation. <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/79979904/212552651-3e503aba-3119-4498-8c97-95c651a7956d.jpg" width="400">
 
-<img src="https://user-images.githubusercontent.com/79979904/212552786-e1c9cb63-8227-47d2-87bf-1fec3f31e345.png width="400">
+<img src="https://user-images.githubusercontent.com/79979904/212552786-e1c9cb63-8227-47d2-87bf-1fec3f31e345.png" width="400">
 
-<img src="https://user-images.githubusercontent.com/79979904/212552821-7058b1af-31e2-48a2-9af8-a45cf85647a2.png width="400">
+<img src="https://user-images.githubusercontent.com/79979904/212552821-7058b1af-31e2-48a2-9af8-a45cf85647a2.png" width="400">
 
 
 ### Testing 
