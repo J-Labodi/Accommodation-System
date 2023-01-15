@@ -14,7 +14,7 @@ maintenance of all the rooms in that hall. Each hall of residence has a name, nu
 address, telephone number. The halls provide only single rooms which have a room number 
 and monthly rent rate. The total number of rooms provided by the accommodation office 
 should also be available. The hall number uniquely identifies each room in all of the halls 
-controlled by the accommodation office, and is used when renting a room to a student. <br/>
+controlled by the accommodation office, and is used when renting a room to a student. <br/><br/>
 The UWE Bristol Accommodation Services allow students renting rooms for the entire 12-
 month academic year from September to August. Each individual rental agreement between 
 a student and the accommodation office is uniquely identified using a lease number. The 
