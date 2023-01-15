@@ -1,6 +1,6 @@
 # Accommodation-System
 
-The aim of the project was to design and implement an accommodation booking system for the University of the West of England, which enables the UWE Accommodation Office to schedule hall activities and keep track of the hall rooms through maintaining the list of room leases.
+The aim of the project was to design and implement an accommodation booking system for the University of the West of England, which enables the UWE Accommodation Office to schedule hall activities and keep track of the hall rooms by maintaining the list of room leases.
 
 The developer team has been assigned to plan, design, develop & test an MVP that utilises;
 * OOP principles
