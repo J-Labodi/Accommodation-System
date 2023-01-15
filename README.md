@@ -120,5 +120,5 @@ implementation. <br/><br/>
 
 ## Run the application locally
 
-In order to run the Currency Converter microservice in a local environment, complete the following steps;
+In order to run the Accommodation System in a local environment, download the project and run the LoginController.java file 
 
