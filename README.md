@@ -7,6 +7,8 @@ The developer team has been assignbed with the task of plan, design, develop & t
 * GoF design patterns
 * SOLID principles 
 
+The acommodation system has been completed in Agile settings, developing the project by continous iteration.The entire project is divided into twenty 
+sprint periods and each, 1 week-long sprint period included a small portion of work to be done.
 
 
 Contirubotors:
@@ -46,13 +48,33 @@ maintenance beyond a normal cleaning.
 ### Design 
 
 
-
 ### Implementation 
 
+#### Work Plan 
+
+The developer team identified the following subtasks within the project that required to be delivered in 
+order to successfully complete the project:
+* Implementation of low-level class design (Sprint no. 1)
+* Develop GUI in Java FX that is suitable to implement the functional requirements related to each 
+of the different types of users that will interact with the system (Sprint no. 2 & 3)
+* Connect class design to GUI, implementing logic that would result in meeting the system 
+requirements <br/>
+
+The above-mentioned high-level tasks are represented in the following product backlog, displaying the 
+desired functionalities in detail as well as their priority, sprint number and their status of 
+implementation. Delivering the system will also require thoroughly testing the product. Testing is going 
+to be represented in an external document, including all the relevant test cases and the outcome of the 
+process.
+
+![image](https://user-images.githubusercontent.com/79979904/212548673-6a44daf5-5ead-480e-9d9e-311367ee557a.png)
+![image](https://user-images.githubusercontent.com/79979904/212548709-83db27d8-7b9a-4293-9840-fc175fb26517.png)
+![image](https://user-images.githubusercontent.com/79979904/212548755-e9890e0d-5734-4f67-ab8e-46c6df022e65.png)
 
 
 ### Testing 
 
+
+### Workplan
 
 
 
