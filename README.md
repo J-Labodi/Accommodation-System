@@ -120,10 +120,10 @@ implementation. <br/><br/>
 
 ## Run the application locally
 
-* In order to run the MVP of Accommodation System in a local environment, download the project and run the LoginController.java file from the src/uweaccommodationsystem/gui directory (JavaFX required). 
-* Login page accepts the following usernames:
+In order to run the MVP of Accommodation System in a local environment, download the project and run the LoginController.java file from the src/uweaccommodationsystem/gui directory (JavaFX required). <br/> 
+Login page accepts the following usernames (password is not required):
 - character "h" to access the Hall Manager view
 - character "w" to access the Warden view
 - character "a" to access the Superuser view <br/> 
-(password is not required)
+
 
