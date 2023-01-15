@@ -11,7 +11,7 @@ The acommodation system has been completed in Agile settings, developing the pro
 sprint periods and each, 1 week-long sprint period included a small portion of work to be done.
 
 
-Members of the Project Team:
+Members of the Developer Team:
 
 * Connor Mackintosh
 * Dikshyanta Uprety
