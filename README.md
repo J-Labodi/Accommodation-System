@@ -47,7 +47,10 @@ maintenance beyond a normal cleaning.
 
 ### Design 
 
+#### Use Case Diagram
 <img src="https://user-images.githubusercontent.com/79979904/212549501-d1c771c7-e752-446b-bf52-18969cb3dc7f.png" width="150%">
+
+#### Class Diagram
 
 ![image](https://user-images.githubusercontent.com/79979904/212549621-5a61e305-454b-4425-ac01-be6f200f0ed8.png)
 
