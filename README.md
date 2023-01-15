@@ -64,7 +64,7 @@ The above-mentioned high-level tasks are represented in the following product ba
 desired functionalities in detail as well as their priority, sprint number and their status of 
 implementation. <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/79979904/212548673-6a44daf5-5ead-480e-9d9e-311367ee557a.png" width="600">
+<img src="https://user-images.githubusercontent.com/79979904/212548673-6a44daf5-5ead-480e-9d9e-311367ee557a.png" width="500">
 
 <img src="https://user-images.githubusercontent.com/79979904/212548709-83db27d8-7b9a-4293-9840-fc175fb26517.png" width="500">
 
