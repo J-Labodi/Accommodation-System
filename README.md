@@ -2,7 +2,19 @@
 
 The aim of the project was to design and implement an accomodation booking system for the Univeristy of the West of England, which enables the UWE Accommodation Office to schedule hall activities and keep track of the hall rooms through maintaining the list of room leases by the developed accommodation system.
 
+The developer team has been assignbed with the task of plan, design, develop & test an MVP that utilises;
+* OOP principles
+* GoF design patterns
+* SOLID principles 
+
+
+
+Contirubotors:
+
+
 ## Project Description
+
+### Scenario
 
 The main responsibility of the UWE accommodation office is to provide the necessary help 
 for all the registered students who are entitled and require their accommodation on-campus.
@@ -31,6 +43,15 @@ limited editing privileges and can only change a room’s cleaning status which 
 “dirty”, or “off-line”. An off-line room is one that cannot be occupied because it requires 
 maintenance beyond a normal cleaning.
 
+### Design 
+
+
+
+### Implementation 
+
+
+
+### Testing 
 
 
 
