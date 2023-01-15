@@ -292,8 +292,4 @@ public class FXMLAdminViewController implements Initializable {
         }
     });
     }
-    
-    
-    
-    
 }
