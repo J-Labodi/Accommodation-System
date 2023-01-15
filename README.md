@@ -120,5 +120,5 @@ implementation. <br/><br/>
 
 ## Run the application locally
 
-In order to run the Accommodation System in a local environment, download the project and run the LoginController.java file that may be located within the src/uweaccommodationsystem/gui directory. 
+In order to run the Accommodation System in a local environment, download the project and run the LoginController.java file from the src/uweaccommodationsystem/gui directory. 
 
