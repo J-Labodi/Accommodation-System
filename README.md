@@ -1,13 +1,13 @@
-# Accomodation-System
+# Accommodation-System
 
-The aim of the project was to design and implement an accomodation booking system for the Univeristy of the West of England, which enables the UWE Accommodation Office to schedule hall activities and keep track of the hall rooms through maintaining the list of room leases by the developed accommodation system.
+The aim of the project was to design and implement an accommodation booking system for the University of the West of England, which enables the UWE Accommodation Office to schedule hall activities and keep track of the hall rooms through maintaining the list of room leases by the developed accommodation system.
 
-The developer team has been assignbed with the task of plan, design, develop & test an MVP that utilises;
+The developer team has been assigned to the task of plan, design, develop & test an MVP that utilises;
 * OOP principles
 * GoF design patterns
 * SOLID principles 
 
-The acommodation system has been completed in Agile settings, developing the project by continous iteration. The entire project is divided into twenty 
+The accommodation system has been completed in Agile settings, developing the project by continuous iteration. The entire project is divided into twenty 
 sprint periods and each, 1 week-long sprint period included a small portion of work to be done.
 
 
@@ -29,8 +29,8 @@ maintenance of all the rooms in that hall. Each hall of residence has a name, nu
 address, telephone number. The halls provide only single rooms which have a room number 
 and monthly rent rate. The total number of rooms provided by the accommodation office 
 should also be available. The hall number uniquely identifies each room in all of the halls 
-controlled by the accommodation office, and is used when renting a room to a student. <br/><br/>
-The UWE Bristol Accommodation Services allow students renting rooms for the entire 12-
+controlled by the accommodation office and is used when renting a room to a student. <br/><br/>
+The UWE Bristol Accommodation Services allow students to rent rooms for the entire 12-
 month academic year from September to August. Each individual rental agreement between 
 a student and the accommodation office is uniquely identified using a lease number. The 
 data stored on each lease includes the lease number, duration of the lease (in months), 
@@ -45,7 +45,8 @@ determine from this description whether a particular room is available and its s
 new student to occupy. On the other hand, a warden can view the room details but he has 
 limited editing privileges and can only change a room’s cleaning status which can be “clean”, 
 “dirty”, or “off-line”. An off-line room is one that cannot be occupied because it requires 
-maintenance beyond a normal cleaning.
+maintenance beyond normal cleaning.
+
 
 ### Design 
 
@@ -124,8 +125,8 @@ implementation. <br/><br/>
 
 ## Run the application locally
 
-In order to run the MVP of Accommodation System in a local environment, download the project and run the LoginController.java file from the src/uweaccommodationsystem/gui directory (JavaFX required). <br/> <br/> 
-Login page accepts the following usernames (password is not required): <br/>
+In order to run the MVP of the Accommodation System in a local environment, download the project and run the LoginController.java file from the src/uweaccommodationsystem/gui directory (JavaFX required). <br/> <br/> 
+The Login page accepts the following usernames (password is not required): <br/>
 - character "h" to access the Hall Manager view
 - character "w" to access the Warden view
 - character "a" to access the Superuser view <br/> 
