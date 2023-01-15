@@ -47,6 +47,11 @@ maintenance beyond a normal cleaning.
 
 ### Design 
 
+![image](https://user-images.githubusercontent.com/79979904/212549501-d1c771c7-e752-446b-bf52-18969cb3dc7f.png)
+
+![image](https://user-images.githubusercontent.com/79979904/212549518-339811bd-f068-4bd1-8149-cdfb637d17eb.png)
+
+
 
 ### Implementation 
 
