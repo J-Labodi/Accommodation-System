@@ -16,8 +16,6 @@ Contirubotors:
 
 ## Project Description
 
-### Scenario
-
 The main responsibility of the UWE accommodation office is to provide the necessary help 
 for all the registered students who are entitled and require their accommodation on-campus.
 The on-campus accommodation comprises of many halls of residence, and each hall has a 
