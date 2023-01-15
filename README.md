@@ -92,7 +92,7 @@ implementation. <br/><br/>
 
 #### Developed System 
 
-<img src="https://user-images.githubusercontent.com/79979904/212552659-e27f0594-40ab-4515-9f54-5306581c5a50.jpg" width="700">
+<img src="https://user-images.githubusercontent.com/79979904/212552659-e27f0594-40ab-4515-9f54-5306581c5a50.jpg" width="500">
 
 <img src="https://user-images.githubusercontent.com/79979904/212552651-3e503aba-3119-4498-8c97-95c651a7956d.jpg" width="700">
 
