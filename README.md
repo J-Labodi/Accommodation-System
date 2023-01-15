@@ -1,7 +1,6 @@
 # Accomodation-System
 
-The aim of the project was to build a Restful API based microservice for currency conversion with full CRUD functionality as well as a client interface to demonstrate & test the application. 
-
+The aim of the project was to design and implement an accomodation booking system for the Univeristy of the West of England, which enables the UWE Accommodation Office to schedule hall activities and keep track of the hall rooms through maintaining the list of room leases by the developed accommodation system.
 
 ## Project Description
 
