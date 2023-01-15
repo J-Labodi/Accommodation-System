@@ -62,10 +62,10 @@ requirements <br/>
 
 The above-mentioned high-level tasks are represented in the following product backlog, displaying the 
 desired functionalities in detail as well as their priority, sprint number and their status of 
-implementation. <br/>
-<img src= "https://user-images.githubusercontent.com/79979904/212548673-6a44daf5-5ead-480e-9d9e-311367ee557a.png" width="600px">
-![image](https://user-images.githubusercontent.com/79979904/212548709-83db27d8-7b9a-4293-9840-fc175fb26517.png)
-![image](https://user-images.githubusercontent.com/79979904/212548755-e9890e0d-5734-4f67-ab8e-46c6df022e65.png)
+implementation. <br/><br/>
+<img src="https://user-images.githubusercontent.com/79979904/212548673-6a44daf5-5ead-480e-9d9e-311367ee557a.png" width="500px">
+<img src="https://user-images.githubusercontent.com/79979904/212548709-83db27d8-7b9a-4293-9840-fc175fb26517.png" width="500px">
+<img src="https://user-images.githubusercontent.com/79979904/212548755-e9890e0d-5734-4f67-ab8e-46c6df022e65.png" width="500px">
 
 
 ### Testing 
